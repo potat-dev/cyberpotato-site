@@ -15,12 +15,12 @@ mermaid: false
 Hello world, this is my first Jekyll blog post!
 
 > This is a test page
-{: .prompt-info }
+> {: .prompt-info }
 
 Code Block test:
 
 ```python
 answer = 5**101 % 11
-print(f"Answer is: {answer}")
+print("Answer is:", answer)
 # при запуске у вас пропадает стипуха
 ```
